@@ -12,25 +12,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=moksh-jain05&show_icons=true&locale=en&layout=compact" alt="moksh-jain05" /></p>
 
 
-## 📌 Featured Project
 
-🔹 **[Expense Management System](https://github.com/yourusername/expense-manager)**  
-_A full-stack application to add, view, and analyze expenses with a clean UI using Streamlit and a MySQL database backend. Built with FastAPI as the server layer._
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
-
-_Thanks for stopping by! Feel free to check out my repositories and connect!_
